@@ -1,10 +1,6 @@
-﻿token=
+token=NTQxNjg2MTgwMzY2Nzc4NDAy.DzjEMw.FtL9DKwKrAQpz64eHpotYbGMSoA
 owner=228139766573432832 
-
-prefix= 1
-
-game= Universe Bot.
-
+prefix= 2
+game= 
 stayinchannel=true
-
 songinstatus=false
